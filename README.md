@@ -29,6 +29,12 @@ KEEP ON GOING
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BaGMihdAxGY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+LONG-TERM CONSISTENCY
+
+<p align="center">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fkUU8kU8iz4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 
 
 
