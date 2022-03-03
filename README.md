@@ -15,7 +15,6 @@
 </p>
 
 
-![This is an image](https://mail.google.com/mail/u/0?ui=2&ik=ac04e0296a&attid=0.1&permmsgid=msg-a:r-5391006133400442496&th=17f4ed230be38419&view=att&disp=safe&realattid=17f4ed21e4089e1ae861)
 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
