@@ -1,7 +1,7 @@
 # Welcome to Leander Jay Pages
 ####  On this page, you will see a motivational speech from Coach Mav and the sport that I play.
 You can use the [editor on GitHub](https://github.com/leanderjgr/leanderjgr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fmavsphenomenalbasketball%2F&psig=AOvVaw2qSW9bS69WZK2ePfLdznSR&ust=1646377458649000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKj7m42wqfYCFQAAAAAdAAAAABAN)
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
