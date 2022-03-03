@@ -1,13 +1,13 @@
 # Welcome to Leander Jay Pages
 ####  On this page, you will see a motivational speech from Coach Mav and the sport that I love to play.
-#### I watch Coach Mav's vlog every single day
+
 
 
 
 ![This is an image](https://pbs.twimg.com/media/EUoV7tWU4AEg3oY?format=jpg&name=small)
 
 
-I watch the daily vlogs of Coach Mav for motivation in myself as an athlete.
+#### I watch the daily vlogs of Coach Mav for motivation in myself as an athlete.
 
 
 TILL I COLLAPSE 
