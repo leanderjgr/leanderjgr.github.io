@@ -1,5 +1,5 @@
-# Welcome to LJ Pages
-###  On this page, you will see a motivational speech from Coach Mav and the sport that I play.
+# Welcome to Leander Jay Pages
+####  On this page, you will see a motivational speech from Coach Mav and the sport that I play.
 You can use the [editor on GitHub](https://github.com/leanderjgr/leanderjgr.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
