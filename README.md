@@ -5,10 +5,13 @@
 
 ![This is an image](https://pbs.twimg.com/media/EUoV7tWU4AEg3oY?format=jpg&name=small)
 
+TILL I COLLAPSE | MAVS DAILY 51
+
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/riHQtcNBT-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
+TO BE SUCCESSFUL WAS NOT AN OPTION | MAVS DAILY 16
 
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ggcEB5WIrU0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
