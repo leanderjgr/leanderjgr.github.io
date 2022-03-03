@@ -2,9 +2,7 @@
 
 
 
-####  On this page, you will see a motivational speech from Coach Mav and the sport that I love to play.
-
-
+####  On this page, you will see a motivational speech from Coach Mav and the sport that I love to play. 
 
 
 ![This is an image](https://pbs.twimg.com/media/EUoV7tWU4AEg3oY?format=jpg&name=small)
