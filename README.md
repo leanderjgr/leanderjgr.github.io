@@ -44,12 +44,4 @@ JUST ENJOY THE PROCESS
 </p>
 
 
-
-
-
-
-
-
-
-
-### I hope you've enjoyed a lot on this motivational speech from Coach Mav. May you always keep in your mind these motivations to serve as inspiration as an athlete.
+### 𝙸 𝚑𝚘𝚙𝚎 𝚢𝚘𝚞'𝚟𝚎 𝚎𝚗𝚓𝚘𝚢𝚎𝚍 𝚊 𝚕𝚘𝚝 𝚘𝚗 𝚝𝚑𝚒𝚜 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗𝚊𝚕 𝚜𝚙𝚎𝚎𝚌𝚑 𝚏𝚛𝚘𝚖 𝙲𝚘𝚊𝚌𝚑 𝙼𝚊𝚟. 𝙼𝚊𝚢 𝚢𝚘𝚞 𝚊𝚕𝚠𝚊𝚢𝚜 𝚔𝚎𝚎𝚙 𝚒𝚗 𝚢𝚘𝚞𝚛 𝚖𝚒𝚗𝚍 𝚝𝚑𝚎𝚜𝚎 𝚖𝚘𝚝𝚒𝚟𝚊𝚝𝚒𝚘𝚗𝚜 𝚝𝚘 𝚜𝚎𝚛𝚟𝚎 𝚊𝚜 𝚒𝚗𝚜𝚙𝚒𝚛𝚊𝚝𝚒𝚘𝚗 𝚊𝚜 𝚊𝚗 𝚊𝚝𝚑𝚕𝚎𝚝𝚎.
